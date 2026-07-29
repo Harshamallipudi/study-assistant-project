@@ -1,6 +1,8 @@
 studdy buddy — Flashcards & Quiz Generator
 
+
 An interactive full-stack web application built with Vite, React (JS), Vercel Serverless Function, and Gemini AI (@google/generative-ai). Paste in notes or type a topic to generate structured, interactive flashcards and a quiz you can actually take.
+Live Demo: https://study-assistant-project.vercel.app
 
 Setup Instructions
 
